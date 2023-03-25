@@ -1,0 +1,4 @@
+matplotlib==3.5.3
+pandas==1.4.4
+texthero==1.0.5
+wordcloud==1.8.2.2
